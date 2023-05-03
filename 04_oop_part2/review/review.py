@@ -1,8 +1,7 @@
-#!/usr/bin/env python3
-#run chmod +x /path/to/file to create an executable
 # Create a class
 # Create a method
 # Global variables
-# Properties
+# Properties, we can do any checks in here!!
 # Decorators
+
 # Review property underscore
