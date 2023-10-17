@@ -4,34 +4,23 @@
 #Lastly, run the file in your terminal as follows: /path/to/your/script.py
 #Todo 1: print a simple string and run the file in your terminal using the command python3 <filename> or the executable option
 
+#Pipenv - package and virtual environment tool, uses a pipfile and pipfile.lock, think of node npm
+#Use pipenv install to generate a Pipfile and Pipfile.lock
+#This will create a virtual environment using the packages in your pipfile and pipfile lock
+
 #Python Package Index
-#To install packages use 'pip install package_name'
+#To install packages to your computer use 'pip install package_name'
+#To install packages to your virtual environment use 'pipenv install package_name'
 #Todo 2: Find a pip package from the PyPi library, install the package and use the package to perform a simple task
 # https://pypi.org/ 
 
-#Debugging using ipdb
-#Todo 3: Debugging the following code using ipdb
-# add a set_trace() in the code, and when you are in the ipdb terminal print the x and y variables
-import ipdb
+#Genereate virtual enviroment with 'pipenv shell'
 
-def multiply(a,b):
-    result = a * b
-    return result
+#Exit your virtual environment with 'exit' or 'pipenv --rm'
 
-x  = '0'
-y = 5
-num = multiply(x,y)
-print(num)
-
-def addition(a,b):
-    result = a + b
-    ipdb.set_trace()
-    return result
-
-a = 60
-b = "hello"
-
-
+#Debugging
+#To enable ipdb debugging, import ipdb
+#ipdb.set_trace() will set a breakpoint
 # You can also use the python shell and use print statements to debug code
 #Todo 4: Create an error in your code and debug the code using the python shell and print statements
 
