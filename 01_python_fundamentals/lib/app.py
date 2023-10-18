@@ -7,6 +7,8 @@
 #Pipenv - package and virtual environment tool, uses a pipfile and pipfile.lock, think of node npm
 #Use pipenv install to generate a Pipfile and Pipfile.lock
 #This will create a virtual environment using the packages in your pipfile and pipfile lock
+#Genereate virtual enviroment with 'pipenv shell'
+#Exit your virtual environment with 'exit' or 'pipenv --rm'
 
 #Python Package Index
 #To install packages to your computer use 'pip install package_name'
@@ -14,9 +16,6 @@
 #Todo 2: Find a pip package from the PyPi library, install the package and use the package to perform a simple task
 # https://pypi.org/ 
 
-#Genereate virtual enviroment with 'pipenv shell'
-
-#Exit your virtual environment with 'exit' or 'pipenv --rm'
 
 #Debugging
 #To enable ipdb debugging, import ipdb
