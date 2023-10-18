@@ -21,8 +21,8 @@
 #Debugging
 #To enable ipdb debugging, import ipdb
 #ipdb.set_trace() will set a breakpoint
-# You can also use the python shell and use print statements to debug code
-#Todo 4: Create an error in your code and debug the code using the python shell and print statements
+# You can also use the python shell & print statements to debug code
+#Todo 4: Create an error in your code and debug the code using the python shell & print statements
 
 #Variables
 #Todo 5: Create a variable and assign it to a value
