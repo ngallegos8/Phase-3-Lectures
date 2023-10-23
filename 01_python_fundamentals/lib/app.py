@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+import numpy as np
+import ipdb
+
 #The python shebang is used to make a file executable
 #To make the file executable run the command chmod +x /path/to/your/script.py
 #Lastly, run the file in your terminal as follows: /path/to/your/script.py
@@ -22,11 +25,23 @@
 #ipdb.set_trace() will set a breakpoint
 # You can also use the python shell & print statements to debug code
 #Todo 4: Create an error in your code and debug the code using the python shell & print statements
+#new 
+
+#Functions
+
+
+#multiply method
+
+
+#addition method
+
+
 
 #Variables
 #Todo 5: Create a variable and assign it to a value
 
 #Global Variables
+
 
 #Python Data Types
 #Todo 6: Create a data type variable
@@ -41,11 +56,14 @@
 
 #None
 
-#Tuple
+#Tuple - Cannot change once it is assigned
 
-#Set
+#Set - Unordered, unchangeable, does not allow duplicates
 
 #Dictionary
+
+#lists
+
 
 #Type Conversion
 #Todo 7: Perform type conversion on a data type
@@ -58,15 +76,20 @@
 #if condition:
     #statement if the condition is true
 
+
 #if/else syntax
 #if condition:
 #else:
+
+
 
 #if/elif/else syntax
 #if condition:
 #elif:
 #elif:
 #else:
+
+
 
 #Syntax of a ternary
 #[option1] if [condition] else [option2]
@@ -88,24 +111,16 @@
 
 #Test if a string is empty
 
-#Test if a number is positive or negative using an else
 
-#Test if a number is positve, negative, or zero, using if, elif, and else
+#Create a condition to check a pet's mood using an if/elif/else and a ternary
 
-#Test if a number is in between two numbers using the and operator
-
-#Test if a number is positive, even, or both
-
-#Test if a string is empty or not
-
-#Todo 8: Create a condition to check a pet's mood using an if/elif/else and a ternary
-pet_name = "tracker"
-pet_mood = "Hungry"
 #If "pet_mood" is "Hungry!", "Tracker needs to be fed."
 #If "pet_mood" is "Whinny ", "Tracker needs a walk"
 #In all other cases, "Tracker is all good"
 
+
 #While Loop
+
 
 #For Loop and Range
 
@@ -117,19 +132,11 @@ pet_mood = "Hungry"
 # use it with different pets / moods
 # Test invocation of "pet_status" in ipdb using "pet_status(pet_name, pet_mood)"
 
+    
 #Todo 10: Create a function (pet_birthday) that will increment a pet's age up by 1. Use try / except to handle errors. 
 # If our function is given an incorrect datatype, it should handle the TypeError exception and alert the user
 # pet_birthday(10) => "Happy Birthday! Your pet is now 11."
 # pet_birthday("oops") => "Type Error Occurred"
 
-#Todo 11: Create a function (say_hello) that returns the string "Hello, world!"
-# Test invocation of "say_hello" in ipdb using "say_hello()"
-# say_hello() => "Hello, world!"
 
-#Todo 12: Create a function (pet_birthday) that will increment a pet's age up by 1. Use try / except to handle errors. 
-# If our function is given an incorrect datatype, it should handle the TypeError exception and alert the user
-# pet_birthday(10) => "Happy Birthday! Your pet is now 11."
-# pet_birthday("oops") => "Type Error Occurred"
-
-#Todo 13: Creating test in python
 
