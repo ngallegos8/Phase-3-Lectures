@@ -2,7 +2,7 @@
 
 # Creating Lists
 #1. ✅ Create a list of 10 pet names
-pet_names = []
+pet_names = ["Tracker", "Boba", "Willow", "Winry", "Ziggy", "Leo", "Lucy", "Abe", "Quinn", "Ruby"]
 
 # Reading Information from Lists
 # 2. ✅ Return the first pet name
