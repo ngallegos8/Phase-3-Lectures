@@ -1,3 +1,26 @@
+#OOP is a programming paradigm based on the concepts of objects or dictionaries
+#For example an object can represent a person and have properties like name, address
+#Behavior or methods like walking, or running
+
+#Benefits
+#Code resuse, modualarity, readable, problem solving, inheritance
+
+#Principles
+# Single Responsibility Principle: 
+    #classes in oop should have one responsibility, and methods should be aligned with that responsibility
+# Separation of concern: 
+    #The idea that the various responsibilities, or concerns, of a computer program should be separated
+# Domain Modeling: 
+    # A method to describe and model entities and the relationships between them
+# Abstraction: 
+    #representing complex real-world problems in a simplified manner by focusing on the most relevant aspects and ignoring the rest.
+# Encapsulation: 
+    #the idea of keeping the internal workings of an object hidden from the outside world.
+# Inheritance: 
+    #the ability for objects to inherit properties and behaviors from other objects.
+# Polymorphism: the ability for objects to take on multiple forms
+
+
 #Todo 1: Create a dog class, first use pass, and create an instance of the class
 #Then use the __init__ to set attributes, and create an instance of the class
 
