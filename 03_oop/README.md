@@ -8,6 +8,6 @@
 - Initializing with attributes using init
 - Instance methods
 - Self
-- Stretch Topics: Object properties
+- Stretch Topics: Object properties and Mass assignment
 
-[Slides](https://docs.google.com/presentation/d/1MN4KPTZTScitwUZ2fBoHKk9CSK6slqQWzYgZRRrt6X8/edit?usp=sharing)
+

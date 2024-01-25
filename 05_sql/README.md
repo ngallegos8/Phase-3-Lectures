@@ -1,9 +1,14 @@
 ## Learning Objectives
 
-- Join “Tables” in Python
-- Thinking in SQL
-- Sql basics
-- Create table, add to table, edit table, remove table
+- Explain why we use databases
+- Explain what SQL is and why we use it
+- Explain the differences between a database, server, and API
+- Explain the differences between rows and columns in a table
+- Explain the differences between a Foreign key and a Primary key
+- Explain what a join table is
+- Explain what it means to seed a database
+- Observe using SQL to communicate with a database
+- Explain what an ORM is
 
 
-[slides](https://docs.google.com/presentation/d/1IYoc35qI94a562MASueoyfmz1e4AfDCjLaoJ5a7_EWk/edit?usp=sharing)
+

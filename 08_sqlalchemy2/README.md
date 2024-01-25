@@ -1,0 +1,11 @@
+# Learning Objectives:
+- Design database tables
+- One to many 
+- Foreign key columns 
+- relationship() and backref()
+- One-to-one
+- Alembic migrations to generate table relationships
+- Relation query methods 
+- many-to-many 
+- Stretch Topic
+- Making a CLI
